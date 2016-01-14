@@ -6,20 +6,25 @@ window.addEventListener('load', function() {
 	
 	*/
     $JSView.declareView({ 
-        viewA: {
-            url: '/viewA',
-            template: 'views/viewA.html',
-            controller: 'viewA'
+        inici: {
+            url: '/inici',
+            template: 'views/inici.html',
+            controller: 'inici'
         },
-        viewB: {
-            url: '/viewB',
-            template: 'views/viewB.html',
-            controller: 'viewB'
+        sol: {
+            url: '/sol',
+            template: 'views/sol.html',
+            controller: 'sol'
         },
-        viewC: {
-            url: '/viewC',
-            template: 'views/viewC.html',
-            controller: 'viewC'
+        mercuri: {
+            url: '/mercuri',
+            template: 'views/mercuri.html',
+            controller: 'mercuri'
+        },
+        venus: {
+            url: '/venus',
+            template: 'views/venus.html',
+            controller: 'venus'
         }
     });
      
@@ -32,8 +37,8 @@ window.addEventListener('load', function() {
         }
     });
      
-    /*Asign view start*/
+    /*designar la pàgina inicial */
     $JSView
-        .initView('viewA');
+        .initView('inici');
  
 }, false);
