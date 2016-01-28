@@ -13,11 +13,11 @@
     <name>Projecte 4t INFO 2015 2016</name>
 
    <description>
-       Aplicació phonegap del salumnes de 4t info Curs 2015 2016
+       Aplicació phonegap dels alumnes de 4t info Curs 2015 2016
     </description>
 
-    <author href="https://numancia.cat/intranet" email="sergi.curtu@numancia.cat">
-       Sergi Curtu
+    <author href="https://numancia.cat/intranet" email="msantos11@numancia.cat">
+       Mario Santos i Joel Repiso
     </author>
 
 	<content src="index.html"/>
