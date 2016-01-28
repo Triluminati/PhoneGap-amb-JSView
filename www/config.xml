@@ -2,18 +2,18 @@
     
 <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "cat.numancia.projecte_info_4t"
-        versionCode = "20" 
-        version     = "1.0.20" >
+        id          = "cat.numancia.projecte_info_Triluminatti"
+        versionCode = "30" 
+        version     = "1.0.30" >
 	
 	<!-- versionCode is optional and Android only -->
 
 	<preference name="phonegap-version" value="cli-5.2.0" />
 
-    <name>Projecte 4t INFO 2015 2016</name>
+    <name>Sistema Solar</name>
 
    <description>
-       Aplicació phonegap dels alumnes de 4t info Curs 2015 2016
+       El sistema Solar, fet pero Joel Repiso i Mario Santos
     </description>
 
     <author href="https://numancia.cat/intranet" email="msantos11@numancia.cat">
